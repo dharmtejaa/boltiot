@@ -6,7 +6,7 @@ Welcome to the Bolt IoT Web Development Internship project repository! This proj
 
 This project serves as a demonstration of web development skills gained during the Bolt IoT internship. It encompasses the development of a responsive website with features tailored to enhance user experience and engagement.
 
-## **For Demo :** visit the [Inventrom Bolt Iot](hhtps://www.github.com)
+## **Demo Page :** visit the [Inventrom Bolt Iot](https://dharmtejaa.github.io/boltiot/)
 
 ## **Features**
 
